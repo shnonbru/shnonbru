@@ -119,6 +119,12 @@ Transformers • Hugging Face • LLM pipelines • Image analysis workflows
 
 ---
 
-#### **Projects / Papers**  
-- [**Women of Lyon**](https://femmeslyon.hypotheses.org/femmes-de-lyon): A digital project shedding light on women's contributions to Lyon's cultural and historical landscape.  
+#### **Projects**  
+- [**Women of Lyon**](https://femmeslyon.hypotheses.org/femmes-de-lyon): A digital project shedding light on women's contributions to Lyon's cultural and historical landscape.
+- [Research Blog — Janus.txt]( https://janustxt.hypotheses.org)
+Reading notes and reflections on digital humanities, AI, and multimodal analysis
+- [Tutorial](https://www.youtube.com/@sbrudererHNetSHS-kz7js/videos)
+Short videos on tools and methods for SHS research
+
+#### **Papers**
 - [Cédric Boscher, Shannon Bruderer, Christine Largeron, Véronique Eglin, and Elöd Egyed-Zsigmond. 2025. Enhancing Low-Resource Text Classification with LLM-Generated Corpora : A Case Study on Olfactory Reference Extraction. In Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, pages 3004–3027, Mumbai, India. The Asian Federation of Natural Language Processing and The Association for Computational Linguistics.](https://aclanthology.org/2025.ijcnlp-long.161/)
