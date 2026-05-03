@@ -1,115 +1,62 @@
-# 👋 Hi there! I'm Shannon Bruderer
+# Hi there! I'm Shannon Bruderer
 
 🎓 Digital Humanities Research Engineer | Art Historian | Art lover | AI & Cultural Heritage Researcher 
 
 ---
 
-## 🔍 About Me
+I'm a digital humanities research engineer working at the intersection of art history, cultural heritage, and artificial intelligence. I support a wide range of research projects in the social sciences and humanities, helping researchers design, implement, and apply computational methods to their research questions.
 
-I'm a digital humanities research engineer working at the intersection of **art history, cultural heritage, and artificial intelligence**.
+You will find here how computational methods can support research in the humanities.
 
-My work focuses on building **data infrastructures, annotation pipelines, and computational methods** for the study of cultural objects and historical sources. I combine approaches from **digital humanities, semantic web technologies, and machine learning** to explore new ways of structuring, analyzing, and interpreting humanities data.
-
-I am particularly interested in how **AI transforms the production, description, and interpretation of images and texts**, and how computational methods can support research in art history and the humanities.
+## My work focuses on building:
+➡️ **Datasets** (web scraping, metadata extraction, cleaning, normalization, and structuring)
+➡️ **Annotation pipelines** (designing annotation protocols, defining research objectives, establishing clear annotation guidelines, and developing annotation environments in Label Studio)
+➡️ **Computational methods** (quantitative analysis, data visualization, pattern recognition, statistical modeling, AI training, fine-tuning, and evaluation)
 
 ---
+## I am currently particularly interested in:
+➡️ How AI transforms the production, description, circulation, and interpretation of cultural heritage data, and how AI models can be approached as cultural objects in themselves
+➡️ Using AI to support humanities research while mobilizing humanities approaches to critically analyze datasets, models, and computational systems
+➡️ Evaluation metrics for text and image generation, confronting computational definitions of quality and performance with critical perspectives from the social sciences and humanities
 
-## 💼 I Work With
-
-🏛 **Maison des Sciences sociales et des Humanités Lyon–Saint-Étienne (MSH-LSE)**
-Research engineer supporting digital humanities projects and research infrastructures.
-
-🎓 **Université Lyon 2**
+## I work with
+➡️ Maison des Sciences Sociales et des Humanités Lyon–Saint-Étienne. 
+Research engineer supporting projects across 52 research laboratories.
+➡️ Université Lumière Lyon 2
 Teaching digital humanities tools and methods for art history students.
+➡️ Université Jean Monnet Saint-Étienne
+Teaching digital humanities tools, research data methods, and computational approaches.
 
-🎓 **Université Jean Monnet Saint Etienne**
+I also collaborate with research infrastructures and communities such as:
 
-🤝 Collaboration with research infrastructures and communities such as:
-
-* **Huma-Num**
-* **RnMSH**
-* **DataLySte**
-* **GaneSHS**
-* Digital Humanities research networks in France and Europe
-
----
-
-## 📊 Research & Technical Focus
-
-I work on projects involving:
-
-* Cultural heritage datasets
-* Knowledge graphs and semantic modeling
-* Image and text analysis with AI
-* Annotation infrastructures and data pipelines
-* Research data management and FAIR principles
-
-My work often connects **historical research questions with computational tools**.
+**Huma-Num** https://www.huma-num.fr
+**RnMSH** https://www.msh-reseau.fr
+**DataLySte** https://datalyste.universite-lyon.fr/ateliers-de-la-donnee-328675.kjsp
+**GANESHs**https://ganeshs.hypotheses.org
+**OPERAS SIG AI** https://operas-eu.org/special-interest-groups/artificial-intelligence-special-interest-group/
 
 ---
 
-## 🧪 Current Projects
+## Current projects
+**Machine translation evaluation** : Developing and comparing metrics to analyze and quantify machine translation outputs.
+**Manuscript modeling** : Knowledge graphs and semantic modeling of compilation strategies in manuscript traditions.
+**Multimodal analysis** : Investigating how text and image representations cohabit latent spaces, and how computational metrics help interpret these spaces.
+**Metaphor detection in textual data** : Designing annotation pipelines and training models to identify metaphors in translation discourse.
+**Political questionnaire analysis** : Statistical analysis, mapping, and synthetic data generation for social science survey research.
+**Personal data in AI production** : Investigating how models such as OpenAI's GPT use context to adapt responses, and how generated context can become a form of personal data representation.
+**Visual data analysis in sociology** : Developing computational pipelines to quantitatively analyze drawing-based sociological surveys.
+**Visual data analysis for synesthesia research**
+**AI citation guide** : Developing practical guidelines for citing AI usage in research, data management plans, and teaching.
+**Giving workshops** : AI prompting, annotation workflows, Label Studio, Tropy, Omeka S, and Huma-Num services.
+**Developing a thesaurus of AI evaluation metrics using OpenTheso.**
 
-🔬 **AI & Cultural Heritage Research**
+## 🌱 Currently learning and deepening
 
-* Annotation workflows with **Label Studio**
-* Extraction and analysis of textual and visual data from historical sources
-* AI-assisted analysis of cultural corpora
-
-📚 **Digital Humanities Data Modeling**
-
-* Semantic data modeling (FRBR, RDF, linked data)
-* Metadata infrastructures for cultural heritage datasets
-* Interoperability with **IIIF, Wikidata, and linked open data ecosystems**
-
-🧠 **AI & Interpretation**
-
-* Research on **image description, ekphrasis, and AI-generated visual narratives**
-* Experiments with **LLMs and multimodal AI in humanities research**
-
----
-
-## 💡 Interests
-
-🚀 Topics:
-
-* Artificial Intelligence in Cultural Heritage
-* Digital Art History
-* Semantic Web & Linked Open Data
-* Knowledge Graphs for Humanities
-* Computational Image Analysis
-* Research Data Management
-* AI and the history of visual interpretation
-
----
-
-## 🛠️ Tools & Technologies
-
-**Programming & Data**
-
-Python • Pandas • Jupyter • Regex • APIs
-
-**Semantic Web**
-
-RDF • SPARQL • OWL • Linked Open Data • Wikidata
-
-**Digital Humanities Tools**
-
-Label Studio • Tropy • Omeka • IIIF • Nakala
-
-**AI / NLP / Vision**
-
-Transformers • Hugging Face • LLM pipelines • Image analysis workflows
-
----
-
-## 🌱 Currently Learning
-
-* Advanced **Python for data analysis**
-* Bash 
-* Machine learning for cultural heritage datasets
-* Knowledge graph construction
-* Multimodal AI for image–text analysis
+Advanced Python for data analysis and research engineering
+Evaluation metrics for text, image, and multimodal analysis
+Bash scripting and systems architecture
+Semantic web and knowledge modeling
+Russian, for fun
 
 ---
 
@@ -119,7 +66,7 @@ Transformers • Hugging Face • LLM pipelines • Image analysis workflows
 
 ---
 
-#### **Projects**  
+#### **Blogs and Independent Projects**  
 - [**Women of Lyon**](https://femmeslyon.hypotheses.org/femmes-de-lyon): A digital project shedding light on women's contributions to Lyon's cultural and historical landscape.
 - [Research Blog — Janus.txt]( https://janustxt.hypotheses.org)
 Reading notes and reflections on digital humanities, AI, and multimodal analysis
